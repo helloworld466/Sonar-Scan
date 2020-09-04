@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  
+  <ItemGroup>
+    <ProguardConfiguration Include="$(MSBuildThisFileDirectory)..\..\proguard\MonoAndroid90\proguard.txt" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <AndroidManifestMerger>manifestmerger.jar</AndroidManifestMerger>
+  </PropertyGroup>  
+  <PropertyGroup>
+    <AndroidFragmentType>AndroidX.Fragment.App.Fragment</AndroidFragmentType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <XamarinBuildRestoreResources Include="_XbdRestoreItems_playservicesmeasurementbase_17_4_1" />
+  </ItemGroup>
+  <Target Name="_XbdRestoreItems_playservicesmeasurementbase_17_4_1">
+    <ItemGroup>
+      <XamarinBuildDownload Include="playservicesmeasurementbase-17.4.1">
+        <Url>https://dl.google.com/dl/android/maven2/com/google/android/gms/play-services-measurement-base/17.4.1/play-services-measurement-base-17.4.1.aar</Url>
+        <ToFile>playservicesmeasurementbase-17.4.1.aar</ToFile>
+        <Kind>Uncompressed</Kind>
+        <Sha256>ad82e1f3296be1e81e588559d055a689c420f31e505d6e1d1cb5d065ff06c726</Sha256>
+      </XamarinBuildDownload>
+    </ItemGroup>
+    <ItemGroup>
+     <XamarinBuildDownloadAndroidAarLibrary Include="$(XamarinBuildDownloadDir)playservicesmeasurementbase-17.4.1\playservicesmeasurementbase-17.4.1.aar" />
+    </ItemGroup>
+  </Target>
+
+</Project>

@@ -1,8 +1,0 @@
-D:\Proj\branches\RentACarMultiLang\RentACar.Data\bin\Debug\RentACar.Data.dll
-D:\Proj\branches\RentACarMultiLang\RentACar.Data\bin\Debug\RentACar.Data.pdb
-D:\Proj\branches\RentACarMultiLang\RentACar.Data\bin\Debug\Dapper.dll
-D:\Proj\branches\RentACarMultiLang\RentACar.Data\bin\Debug\Dapper.pdb
-D:\Proj\branches\RentACarMultiLang\RentACar.Data\bin\Debug\Dapper.xml
-D:\Proj\branches\RentACarMultiLang\RentACar.Data\obj\Debug\RentACar.Data.csprojResolveAssemblyReference.cache
-D:\Proj\branches\RentACarMultiLang\RentACar.Data\obj\Debug\RentACar.Data.dll
-D:\Proj\branches\RentACarMultiLang\RentACar.Data\obj\Debug\RentACar.Data.pdb
