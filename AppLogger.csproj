@@ -3,9 +3,9 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>AppLogger</PackageId>
-    <Version>$variable1</Version>
-    <Authors>Author1</Authors>
-    <Company>Company1</Company>
+    <Version>2.0.0</Version>
+    <Authors>your_name</Authors>
+    <Company>your_company</Company>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 

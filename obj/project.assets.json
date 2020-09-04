@@ -183,13 +183,13 @@
     "C:\\Users\\akshay\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akshay\\Desktop\\ClassLibraryProject\\ClassLibraryProject.csproj",
-      "projectName": "ClassLibraryProject",
-      "projectPath": "C:\\Users\\akshay\\Desktop\\ClassLibraryProject\\ClassLibraryProject.csproj",
+      "projectUniqueName": "C:\\Users\\akshay\\Desktop\\AppLogger\\AppLogger.csproj",
+      "projectName": "AppLogger",
+      "projectPath": "C:\\Users\\akshay\\Desktop\\AppLogger\\AppLogger.csproj",
       "packagesPath": "C:\\Users\\akshay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akshay\\Desktop\\ClassLibraryProject\\obj\\",
+      "outputPath": "C:\\Users\\akshay\\Desktop\\AppLogger\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akshay\\AppData\\Roaming\\NuGet\\NuGet.Config"

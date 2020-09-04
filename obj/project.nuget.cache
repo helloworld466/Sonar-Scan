@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e4Q2ZfLgmhjyq0SEgt1vEi6SVV6kF5H9qDH/8eMTIy8F8rmfDymnz4Lh9/ABP8h/AXr9T1mEw44N++aQy4Ls4A==",
+  "dgSpecHash": "APaZIFBFVzwTlDRllaQxFVQlIaW8M6ctBJFZJuIIhdRenguwydyRzpQ2IRG1ZQ8DVeD2rCGyONOwUgPUnCIeag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akshay\\Desktop\\ClassLibraryProject\\ClassLibraryProject.csproj",
+  "projectFilePath": "C:\\Users\\akshay\\Desktop\\AppLogger\\AppLogger.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akshay\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\akshay\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

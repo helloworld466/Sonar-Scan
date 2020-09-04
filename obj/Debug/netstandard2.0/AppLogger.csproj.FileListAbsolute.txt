@@ -1,0 +1,9 @@
+C:\Users\akshay\Desktop\AppLogger\bin\Debug\netstandard2.0\AppLogger.deps.json
+C:\Users\akshay\Desktop\AppLogger\bin\Debug\netstandard2.0\AppLogger.dll
+C:\Users\akshay\Desktop\AppLogger\bin\Debug\netstandard2.0\AppLogger.pdb
+C:\Users\akshay\Desktop\AppLogger\obj\Debug\netstandard2.0\AppLogger.csprojAssemblyReference.cache
+C:\Users\akshay\Desktop\AppLogger\obj\Debug\netstandard2.0\AppLogger.AssemblyInfoInputs.cache
+C:\Users\akshay\Desktop\AppLogger\obj\Debug\netstandard2.0\AppLogger.AssemblyInfo.cs
+C:\Users\akshay\Desktop\AppLogger\obj\Debug\netstandard2.0\AppLogger.csproj.CoreCompileInputs.cache
+C:\Users\akshay\Desktop\AppLogger\obj\Debug\netstandard2.0\AppLogger.dll
+C:\Users\akshay\Desktop\AppLogger\obj\Debug\netstandard2.0\AppLogger.pdb

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ClassLibraryProject
+namespace AppLogger
 {
     public class Class1
     {
