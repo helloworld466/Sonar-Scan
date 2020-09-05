@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
-  <Relationship Type="http://schemas.microsoft.com/packaging/2010/07/manifest" Target="/Xamarin.GooglePlayServices.Measurement.Base.nuspec" Id="R9C93E68127B15D92" />
-  <Relationship Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties" Target="/package/services/metadata/core-properties/23797d4087f04fd19453c58ade3c511a.psmdcp" Id="R25429C3528FC52D9" />
+  <Relationship Type="http://schemas.microsoft.com/packaging/2010/07/manifest" Target="/Serilog.nuspec" Id="R19342E949D17AF2F" />
+  <Relationship Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties" Target="/package/services/metadata/core-properties/ac220f30cbe042b99860733abd7ff202.psmdcp" Id="RF124315D9D3CDD50" />
 </Relationships>
